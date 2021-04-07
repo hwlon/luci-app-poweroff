@@ -4,6 +4,6 @@
 ![GitHub Forks](https://img.shields.io/github/forks/esirplayground/luci-app-poweroff.svg?style=flat&logo=appveyor&label=Forks&logo=github)
 
 
-https://github.com/chongshengB/rt-n56u
-https://github.com/TurBoTse/rt-n56u
-https://github.com/hanwckf/rt-n56u
+-https://github.com/chongshengB/rt-n56u
+-https://github.com/TurBoTse/rt-n56u
+-https://github.com/hanwckf/rt-n56u
